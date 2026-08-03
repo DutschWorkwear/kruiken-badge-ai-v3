@@ -1,0 +1,12 @@
+KRU1KEN BADGE AI V3
+
+1. Pak deze ZIP uit.
+2. Maak een NIEUWE lege GitHub repository:
+   kruiken-badge-ai-v3
+3. Upload ALLE bestanden en mappen uit de ZIP.
+4. Commit changes.
+5. Maak in Vercel een NIEUW project vanuit die repository.
+6. Voeg dezelfde Environment Variables toe als bij V2.
+7. Deploy.
+8. Test eerst /api/health.
+9. Laat de Shopify endpoint voorlopig nog op V2 staan.
